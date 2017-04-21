@@ -6,3 +6,8 @@ personal valence: keuntungan bagi diri
 employee envolvement: melibatkan karyawan (untuk mengambil keputusan)
 empowerment: pemberdayaan
 self esteem: percaya diri?
+
+kesiapan berubah: readiness for change
+perubahan organisasi: organizational change
+pemberdayaan karyawan: employee empowerment
+modal psikologis: psychological capital
